@@ -6,6 +6,7 @@ using System.Runtime.InteropServices;
 
 namespace DelegateGetInvocationListBenchmarks
 {
+    [MemoryDiagnoser]
     public class Benchmarks
     {
         
